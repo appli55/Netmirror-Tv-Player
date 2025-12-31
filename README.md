@@ -7,7 +7,7 @@ Play NetMirror videos from <a href="https://netmirror.art">Netmirror</a> website
 * Fully Support on Android Tv.
 
 # Download App
-NetMirror-Tv-Player.apk
+<a href="https://raw.githubusercontent.com/appli55/netmirror_extension/main/App/Netmirror-Tv-Player.apk">NetMirror-Tv-Player.apk</a>
 
 # ScreenShot
 
