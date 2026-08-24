@@ -1,6 +1,6 @@
 # NetMirror Tv Player App.
 
-Play NetMirror videos from <a href="https://netmirror.art">Netmirror</a> websites or play any video url with an easy-to-use interface.
+Play NetMirror videos from <a href="https://netmirror.world">Netmirror</a> websites or play any video url with an easy-to-use interface.
 
 * Full Screen Support
 * Subtitle Support .srt/.vtt
