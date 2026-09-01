@@ -87,42 +87,32 @@ Google TV, or compatible Android device.
 <table>
 <tr>
 <td align="center">
-<img src="screenshots/home.jpg" width="250">
+<img src="app/Screenshot 2026-09-01 181141.png" width="250">
 
 **Home**
 </td>
 
 <td align="center">
-<img src="screenshots/player.jpg" width="250">
+<img src="app/Screenshot 2026-09-01 181640.png" width="250">
 
 **Video Player**
 </td>
 
 <td align="center">
-<img src="screenshots/subtitles.jpg" width="250">
+<img src="app/Screenshot 2026-09-01 183625.png" width="250">
 
-**Subtitles**
+**Play In App**
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="screenshots/quality.jpg" width="250">
+<img src="app/Screenshot 2026-09-01 182437.png" width="250">
 
-**Quality**
+**Play On TV**
 </td>
 
-<td align="center">
-<img src="screenshots/tv.jpg" width="250">
 
-**Android TV**
-</td>
-
-<td align="center">
-<img src="screenshots/settings.jpg" width="250">
-
-**Settings**
-</td>
 </tr>
 </table>
 
