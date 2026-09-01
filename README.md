@@ -9,7 +9,7 @@ TV-friendly interface.
 
 <br>
 
-[![Download APK](https://img.shields.io/badge/Download-APK-4F46E5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/NetMirror-Tv-3.2.0v.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-4F46E5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/Netmirror-Tv-3.2.0.apk)
 [![Android TV](https://img.shields.io/badge/Android%20TV-Supported-22C55E?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Version](https://img.shields.io/badge/Version-3.2.0-7C3AED?style=for-the-badge)](#)
 
@@ -68,7 +68,7 @@ Google TV, or compatible Android device.
 
 <br>
 
-### ⬇️ [**DOWNLOAD APK**](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/NetMirror-Tv-3.2.0v.apk)
+### ⬇️ [**DOWNLOAD APK**](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/Netmirror-Tv-3.2.0.apk)
 
 <br>
 
@@ -180,7 +180,7 @@ The player supports:
 
 # 🔗 Links
 
-- 📥 **[Download Latest APK](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/NetMirror-Tv-3.2.0v.apk)**
+- 📥 **[Download Latest APK](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/Netmirror-Tv-3.2.0.apk)**
 - 💻 **[Source Code](https://github.com/appli55/Netmirror-Tv-Player)**
 - 📖 **[Repository](https://github.com/appli55/Netmirror-Tv-Player)**
 
