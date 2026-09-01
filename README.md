@@ -1,18 +1,209 @@
-# NetMirror Tv Player App.
+<div align="center">
 
-Play NetMirror videos from <a href="https://netmirror.world">Netmirror</a> websites or play any video url with an easy-to-use interface.
+# 📺 NetMirror TV Player
 
-* Full Screen Support
-* Subtitle Support .srt/.vtt
-* Fully Support on Android Tv.
+### A simple, fast and powerful video player for Android TV
 
-# Download App
+Play videos from NetMirror websites or any direct video URL with a clean
+TV-friendly interface.
 
-<a href="https://raw.githubusercontent.com/appli55/Netmirror-Tv-Player/main/App/Netmirror-Tv-3.2.0.apk">NetMirror-Tv-3.2.0v.apk</a>
+<br>
 
-# ScreenShot
+[![Download APK](https://img.shields.io/badge/Download-APK-4F46E5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/NetMirror-Tv-3.2.0v.apk)
+[![Android TV](https://img.shields.io/badge/Android%20TV-Supported-22C55E?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Version](https://img.shields.io/badge/Version-3.2.0-7C3AED?style=for-the-badge)](#)
 
+</div>
 
+---
 
+## ✨ Features
 
+<table>
+<tr>
+<td width="50%">
 
+### 🎬 Full Screen Player
+
+Enjoy videos in a distraction-free full-screen player designed for TV.
+
+</td>
+<td width="50%">
+
+### 📺 Android TV
+
+Optimized for Android TV and large-screen devices with remote navigation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Subtitle Support
+
+Supports external `.srt` and `.vtt` subtitle files.
+
+</td>
+<td width="50%">
+
+### ⚡ Simple & Fast
+
+Lightweight interface with quick video playback and minimal setup.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Download
+
+<div align="center">
+
+## NetMirror TV Player v3.2.0
+
+Download the latest APK and install it on your Android TV,
+Google TV, or compatible Android device.
+
+<br>
+
+### ⬇️ [**DOWNLOAD APK**](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/NetMirror-Tv-3.2.0v.apk)
+
+<br>
+
+**Version:** `3.2.0`  
+**Format:** `APK`  
+**Platform:** `Android / Android TV`
+
+</div>
+
+---
+
+# 📱 Screenshots
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="screenshots/home.jpg" width="250">
+
+**Home**
+</td>
+
+<td align="center">
+<img src="screenshots/player.jpg" width="250">
+
+**Video Player**
+</td>
+
+<td align="center">
+<img src="screenshots/subtitles.jpg" width="250">
+
+**Subtitles**
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="screenshots/quality.jpg" width="250">
+
+**Quality**
+</td>
+
+<td align="center">
+<img src="screenshots/tv.jpg" width="250">
+
+**Android TV**
+</td>
+
+<td align="center">
+<img src="screenshots/settings.jpg" width="250">
+
+**Settings**
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📺 Android TV
+
+NetMirror TV Player is designed specifically for large screens.
+
+- 🎮 Remote-control friendly navigation
+- 📺 Android TV optimized interface
+- 🔲 Full-screen playback
+- 💬 Subtitle support
+- ⚡ Fast startup
+- 🎬 Video URL playback
+
+---
+
+# 🛠️ Installation
+
+### Android TV
+
+1. Download the APK.
+2. Transfer the APK to your Android TV.
+3. Open the APK using a file manager.
+4. Allow installation from unknown sources if requested.
+5. Install the application.
+6. Launch **NetMirror TV Player**.
+
+### Android Phone / Tablet
+
+Download the APK and open it on your Android device.
+
+> **Note:** You may need to allow installation from unknown sources
+> depending on your Android version.
+
+---
+
+# 🎥 Supported Subtitles
+
+The player supports:
+
+| Format | Support |
+|---|:---:|
+| `.srt` | ✅ |
+| `.vtt` | ✅ |
+
+---
+
+# 📦 App Information
+
+| Information | Details |
+|---|---|
+| App | NetMirror TV Player |
+| Version | **3.2.0** |
+| Platform | Android |
+| Android TV | ✅ Supported |
+| Full Screen | ✅ |
+| Subtitles | `.srt` / `.vtt` |
+| Video URLs | ✅ |
+
+---
+
+# 🔗 Links
+
+- 📥 **[Download Latest APK](https://github.com/appli55/Netmirror-Tv-Player/raw/refs/heads/main/App/NetMirror-Tv-3.2.0v.apk)**
+- 💻 **[Source Code](https://github.com/appli55/Netmirror-Tv-Player)**
+- 📖 **[Repository](https://github.com/appli55/Netmirror-Tv-Player)**
+
+---
+
+<div align="center">
+
+### 📺 NetMirror TV Player
+
+**Simple • Fast • TV Friendly**
+
+<br>
+
+Made with ❤️ for Android TV
+
+</div>
