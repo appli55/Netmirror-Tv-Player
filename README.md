@@ -87,19 +87,19 @@ Google TV, or compatible Android device.
 <table>
 <tr>
 <td align="center">
-<img src="app/Screenshot 2026-09-01 181141.png" width="250">
+<img src="App/Screenshot 2026-09-01 181141.png" width="250">
 
 **Home**
 </td>
 
 <td align="center">
-<img src="app/Screenshot 2026-09-01 181640.png" width="250">
+<img src="App/Screenshot 2026-09-01 181640.png" width="250">
 
 **Video Player**
 </td>
 
 <td align="center">
-<img src="app/Screenshot 2026-09-01 183625.png" width="250">
+<img src="App/Screenshot 2026-09-01 183625.png" width="250">
 
 **Play In App**
 </td>
@@ -107,7 +107,7 @@ Google TV, or compatible Android device.
 
 <tr>
 <td align="center">
-<img src="app/Screenshot 2026-09-01 182437.png" width="250">
+<img src="App/Screenshot 2026-09-01 182437.png" width="250">
 
 **Play On TV**
 </td>
