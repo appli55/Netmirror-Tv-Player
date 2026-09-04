@@ -1,11 +1,10 @@
 <div align="center">
 
-# 📺 NetMirror TV Player
+# 📺 NetMirror Player
 
-### A simple, fast and powerful video player for Android TV
+### A simple, fast and powerful Android video player
 
-Play videos from NetMirror websites or any direct video URL with a clean
-TV-friendly interface.
+Play videos from NetMirror websites or any direct video URL with a clean interface.
 
 <br>
 
@@ -25,14 +24,14 @@ TV-friendly interface.
 
 ### 🎬 Full Screen Player
 
-Enjoy videos in a distraction-free full-screen player designed for TV.
+Enjoy videos in a distraction-free full-screen player designed for Mobile And TV.
 
 </td>
 <td width="50%">
 
 ### 📺 Android TV
 
-Optimized for Android TV and large-screen devices with remote navigation.
+Scan Qr Code from Mobile Play video remotly
 
 </td>
 </tr>
@@ -61,7 +60,7 @@ Lightweight interface with quick video playback and minimal setup.
 
 <div align="center">
 
-## NetMirror TV Player v3.2.0
+## NetMirror Player v3.2.0
 
 Download the latest APK and install it on your Android TV,
 Google TV, or compatible Android device.
@@ -168,7 +167,7 @@ The player supports:
 
 | Information | Details |
 |---|---|
-| App | NetMirror TV Player |
+| App | NetMirror Player |
 | Version | **3.2.0** |
 | Platform | Android |
 | Android TV | ✅ Supported |
@@ -188,7 +187,7 @@ The player supports:
 
 <div align="center">
 
-### 📺 NetMirror TV Player
+### 📺 NetMirror Player
 
 **Simple • Fast • TV Friendly**
 
